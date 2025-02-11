@@ -12,6 +12,8 @@ Key Features:
 
 ✅ Automated Initialization: The meme generator automatically generates a meme upon page load to ensure immediate content for users.
 
+Live Demo: https://disha1527.github.io/meme_generator/
+
 
 
 ![screencapture-file-C-Users-DELL-Desktop-meme-js-index-html-2025-01-17-11_18_42](https://github.com/user-attachments/assets/ec500c81-abe2-43bd-b926-133385f63d0d)
